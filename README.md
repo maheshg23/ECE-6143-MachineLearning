@@ -1,6 +1,13 @@
 # Machine Learning Course (ECE-6143) NYU Spring 2020 
 
-* [Homework Assignment 1](https://github.com/maheshg23/ECE-6143-MachineLearning/tree/master/HW1 "Assignment1")
+* [Homework Assignment 1](https://github.com/maheshg23/ECE-6143-MachineLearning/tree/master/HW1 "Assignment1")  
+Nearest Neighbor Search Document  
 
-* [Homework Assignment 2](https://github.com/maheshg23/ECE-6143-MachineLearning/tree/master/HW1 "Assignment2")
+* [Homework Assignment 2](https://github.com/maheshg23/ECE-6143-MachineLearning/tree/master/HW2 "Assignment2")  
+Linear Regression From Scratch  
+Linear Regression Scikit  
+
+* [Homework Assignment 3](https://github.com/maheshg23/ECE-6143-MachineLearning/tree/master/HW3 "Assignment3")  
+Linear Regression Model with Ridge Regression using 10-Fold Cross Validation  
+Logistic Regresison with Gradient Descent and Sochastic Gradient Descent 
 

@@ -11,3 +11,9 @@ Linear Regression Scikit
 Linear Regression Model with Ridge Regression using 10-Fold Cross Validation  
 Logistic Regresison with Gradient Descent and Sochastic Gradient Descent 
 
+* [Homework Assignment 4](https://github.com/maheshg23/ECE-6143-MachineLearning/tree/master/HW4 "Assignment4")  
+Perceptron Algorithm
+Fashion MNIST Datase performance on KNN, Logistic Regression, SVM (Linearn and RBF Kernel)
+
+* [Homework Assignment 5](https://github.com/maheshg23/ECE-6143-MachineLearning/tree/master/HW5 "Assignment5")  
+

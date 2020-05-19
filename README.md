@@ -19,3 +19,7 @@ Fashion MNIST Datase performance on KNN, Logistic Regression, SVM (Linearn and R
 Transfer Learning using the RESNET34 Model on Image Dataset  
 
 * [Homework Assignment 6](https://github.com/maheshg23/ECE-6143-MachineLearning/tree/master/HW6 "Assignment6")  
+Principal Component Analysis Calculation and visual representation
+KMeans Clustering 
+PCA on the Places Rated Almanac dataset
+
